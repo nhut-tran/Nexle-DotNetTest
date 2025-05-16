@@ -22,8 +22,8 @@ git clone https://github.com/nhut-tran/Nexle-DotNetTest.git
 ```
 ### 2. Change the appsettings.json
 
-Go to appsettings.json with database credentials in the test document
-Make sure the JWT Key must be at least 16 characters
+- Go to appsettings.json with database credentials in the test document
+- If change the JWT make sure it is at least 16 characters
 
 ### 3. Run the API
 
